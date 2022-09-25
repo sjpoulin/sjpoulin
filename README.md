@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sjpoulin
 - 📺 TV Director/TD
 - 🃏 Board Game Fan
-- 🎸 Guitarist-in-recovery
 - 👨‍🍳 I can boil some mean pasta!
 - 🤓 CS-50 Student
 
