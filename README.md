@@ -1,6 +1,6 @@
-New Englander, board game fan, buffalo wing enthusiast.
-TV Director/TD by trade.
-Currently studying CS50/CS50P
+- New Englander, board game fan, buffalo wing enthusiast.
+- TV Director/TD by trade.
+- Currently studying CS50/CS50P
 
 - 📫 [Let's Connect!](https://www.linkedin.com/in/spencerpoulin/)
 
