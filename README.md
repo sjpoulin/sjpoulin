@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sjpoulin
-- 📺 TV Director/TD
-- 🃏 Board Game Fan
-- 👨‍🍳 I can boil some mean pasta!
-- 🤓 CS-50 Student
+New Englander, board game fan, buffalo wing enthusiast.
+TV Director/TD by trade.
+Currently studying CS50/CS50P
 
 - 📫 [Let's Connect!](https://www.linkedin.com/in/spencerpoulin/)
 
