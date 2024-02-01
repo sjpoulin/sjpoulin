@@ -2,7 +2,9 @@
 - TV Director/TD by trade.
 
 *Certificate, Learning Python for Data Science, HarvardX*
+
 *Certificate, Computer Science for Python Programming, HarvardX*
+
 *B.S. Communication, Univ. of New Haven*
 
 - 📫 [Let's Connect!](https://www.linkedin.com/in/spencerpoulin/)
