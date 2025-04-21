@@ -5,7 +5,9 @@ New Englander, board game fan, and buffalo wing enthusiast.
 *Certificate, Computer Science for Python Programming, HarvardX*  
 *B.S. Communication, Univ. of New Haven*
 
+- 🏅 [My Credly](https://www.credly.com/users/spencer-poulin)
 - 📫 [Let's Connect!](https://www.linkedin.com/in/spencerpoulin/)
+
 
 <!---
 sjpoulin/sjpoulin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
